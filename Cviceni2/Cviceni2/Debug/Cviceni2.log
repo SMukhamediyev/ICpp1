@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  Pokladna.cpp
+C:\Users\Spike\source\repos\Cviceni2\Cviceni2\Pokladna.cpp(28,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Spike\source\repos\Cviceni2\Cviceni2\Pokladna.cpp(40,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\Spike\source\repos\Cviceni2\Cviceni2\Pokladna.cpp(50,23): warning C4018: '<': signed/unsigned mismatch
+  Cviceni2.vcxproj -> C:\Users\Spike\source\repos\Cviceni2\Debug\Cviceni2.exe
